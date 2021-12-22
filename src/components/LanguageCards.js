@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './LanguageCards.css';
-     
+      
 export default function LanguageCards(props) {
   // console.log(props);
   const [front, setFront] = useState(true);
