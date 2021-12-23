@@ -1,7 +1,7 @@
 import { data } from '../helpers/data';
 import LanguageCards from './LanguageCards';
 import './LanguageCards.css';
-  
+   
 export default function FuncLangCards() {
   return (
     <div className='container'>
